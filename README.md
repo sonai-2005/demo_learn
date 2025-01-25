@@ -5,8 +5,8 @@ author- Saptarshi Nandi
 <br>
 changed changed with br tag from vs code ,,, 
 <br>
-git add
+save changes = git add .
 <br>
-git commit -m "messgae"
+commit changes= git commit -m "messgae"
 <br>
-git push origin main
+push the changes = git push origin main
